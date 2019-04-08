@@ -4,5 +4,3 @@ class Addition {
     }
 }
 module.exports = Addition;
-
-tao là phương và tao xin ph
